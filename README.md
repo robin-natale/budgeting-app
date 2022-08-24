@@ -4,6 +4,7 @@
 * This project was created for learning purposes
 * The work completed on this project has served me to learn and practice on building apps using Javascript language
 * There is a starter folder which is the base and a final folder where all the main work has been completed
+* Visit app progress by clicking <a href="https://robin-natale.github.io/budgeting-app/final/index.html">here</a>.
 
 
 # App functionality
